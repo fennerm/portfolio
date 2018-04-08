@@ -1,5 +1,8 @@
 # Selected Code Samples
 
+Some example code I've written for personal projects and bioinformatics
+research.
+
 ## Python
 
 Project: [flashfocus](https://github.com/fennerm/flashfocus)
