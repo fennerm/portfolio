@@ -10,7 +10,7 @@ Project: [flashfocus](https://github.com/fennerm/flashfocus)
  Main application class which interacts with the Xorg server using a threaded event loop.
 - [Code](https://github.com/fennerm/flashfocus/blob/master/flashfocus/server.py)
 
-- [Tests](https://github.com/fennerm/flashfocus/blob/master/flashfocus/test_server..py)
+- [Tests](https://github.com/fennerm/flashfocus/blob/master/flashfocus/test_server.py)
 
 ##
 
